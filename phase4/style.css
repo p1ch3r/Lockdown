@@ -9,7 +9,7 @@
 
 #second {
   font-family: didot;
-  color: #8D0303;
+  color: 	#191970;
   font-size:140%;
   text-align: center
 }
@@ -39,9 +39,8 @@ h2 {
 
 .visited {
   text-align: center
- 
-
-}
+    
+ }
 
 
 a{
@@ -58,4 +57,8 @@ a:visited{
   text-align: center
 }
 body {
-  background-colo
+  background-color: #FFFFE0;
+}
+h1 {
+  text-align: center;
+}
