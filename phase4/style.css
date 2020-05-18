@@ -1,0 +1,61 @@
+#top {
+  font-family: didot;
+  position: center;
+  left: 100px;
+  top: 100px;
+  color: #8D0303;
+  text-align: center
+  }
+
+#second {
+  font-family: didot;
+  color: #8D0303;
+  font-size:140%;
+  text-align: center
+}
+.name {
+  text-align: center
+}
+
+h2 {
+  font-family: arial;
+  color: #BF940E;
+  text-align: center
+  
+  
+}
+
+.attribution{
+  font-size:10%;
+}
+
+.wonder {
+  color: #006400f;
+  font-family: georgia;
+  font-size:115%;
+  text-align: center
+ 
+}
+
+.visited {
+  text-align: center
+ 
+
+}
+
+
+a{
+  text-decoration: none;
+  text-align: center
+}
+
+a:hover{
+  font-size: 150%;
+  text-align: center
+}
+a:visited{
+  color: #674EA7;
+  text-align: center
+}
+body {
+  background-colo
